@@ -1,0 +1,24 @@
+{
+    "repos": [
+        {
+            "name": "calculator",
+            "url": "https://theHTMLSpot.github.io/calculator-tehx",
+            "description": "A basic calculator made with create-react-app and css."
+        },
+        {
+            "name": "contact-us",
+            "url": "https://theHTMLSpot.github.io/contact-us",
+            "description": "A cool contact us page made with create-react-app for frontend mentor"
+        },
+        {
+            "name": "landing-page",
+            "url": "https://theHTMLSpot.github.io/landing-page",
+            "description": "A landing page for an architectural firm that I made using React and got the idea from fake-clients.com"
+        },
+        {
+            "name": "tic-tac-toe",
+            "url": "https://theHTMLSpot.github.io/tic-tac-toe",
+            "description": "A basic tic tac toe game that challenged my JavaScript skills and forced me to evolve as a programmer"
+        }
+    ]
+}

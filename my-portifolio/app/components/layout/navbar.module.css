@@ -1,0 +1,39 @@
+.navbar
+{
+  width: 100%;
+  height: 10%;
+  position: fixed;
+  margin-top: 5%;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-top: 2px aliceblue solid;
+  border-bottom: 2px aliceblue solid;
+
+
+}
+.navbar > ul{
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: flex-end;
+}
+.navbar > ul > li{
+
+  list-style: none;
+  font-size: 1.3em;
+  color: #afacac;
+  margin-right: 4%;
+  transition: 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.navbar > ul > li:hover
+{
+
+  color: white;
+}
+
+.active > *
+{
+    text-decoration: underline;
+    color: white;
+}
